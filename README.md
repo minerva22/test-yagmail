@@ -5,6 +5,9 @@ PS: yagmail is a wrapper around [smtplib](https://docs.python.org/3.5/library/sm
 # Install
 Pre-requisite: `sudo pip3 install pew`
 
+Sign in to gmail and [allow less secure apps](https://www.google.com/settings/security/lesssecureapps)
+and click `ON`. ([ref](https://support.google.com/accounts/answer/6010255?hl=en))
+
 Download and install
 ```
 wget https://github.com/minerva22/test-yagmail/archive/master.zip -O test-yagmail.zip
